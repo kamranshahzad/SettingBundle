@@ -1,0 +1,9 @@
+
+parameters:
+  setting.default.class: Kamran\SettingBundle\Base\DefaultSettings
+
+services:
+
+  # Default settings injector
+  pi.settings_default:
+    class: %setting.default.class%

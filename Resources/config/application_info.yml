@@ -1,0 +1,8 @@
+
+
+themes:
+  active: blue-developer
+  bundle: KamranThemeBundle
+  controller_annotation: false
+  default_template: page.html.twig
+  url_rules: {'/':'dashboard.html.twig','/login':'login.html.twig','/snippets/*':'snippets.html.twig','/tasker/*':'tasker.html.twig','/technology/*':technology.html.twig,'/links/*':links.html.twig}
