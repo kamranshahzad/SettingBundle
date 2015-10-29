@@ -5,7 +5,7 @@
 This bundle provides the functionality to add setting forms for your project bundles.
 You can create custom setting forms using XMLFormBundle.
 
-![alt text](https://github.com/kamranshahzad/SettingBundle/tree/master/Resources/public/img/settings-screenshot.png "Settings screenshot")
+![alt text](https://github.com/kamranshahzad/SettingBundle/blob/master/Resources/public/img/settings-screenshot.png "Settings screenshot")
 
 ## Installation.
 
